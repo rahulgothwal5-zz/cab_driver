@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="service_details">Service Details</string>
+    <string name="enter_your">Enter your</string>
+    <string name="share_the_oxy_code_and_give_friends_and_family_free_rides_worth_up_to_25">Share the OXY code and give Friends and Family free rides, worth up to ₹25</string>
+    <string name="share_free_trips_to_your_family_and_friends">Share free trips to your Family and friends</string>
+</resources>
